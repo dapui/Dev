@@ -2,10 +2,18 @@ team: Leopards
 
 manager: Dooli
 
+<<<<<<< HEAD
 coach: Melissa
+=======
+coach: Lupi
+>>>>>>> master
 
 members:
 - Linda
 - William
 - David
+<<<<<<< HEAD
 - Evie
+=======
+- Dongho
+>>>>>>> master
